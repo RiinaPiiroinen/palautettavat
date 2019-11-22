@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BMI Riina</string>
+    <string name="pituus">Pituus</string>
+    <string name="paino">Paino</string>
+    <string name="tuloksesi">Tuloksesi</string>
+    <string name="kuinka_pitk_olet">Kuinka pitkä olet</string>
+    <string name="kuinka_paljon_painat">Kuinka paljon painat?</string>
+    <string name="enter_pituus">Kuinka pitkä olet?</string>
+    <string name="enter_paino">Kuinka paljon painat?</string>
+    <string name="result">Tulos tulee tähän</string>
+    <string name="laske">Laske</string>
+</resources>

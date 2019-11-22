@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI Riina</string>
+    <string name="enter_paino">Your weight?</string>
+    <string name="enter_pituus">Your height?</string>
+    <string name="kuinka_paljon_painat">Your weight?</string>
+    <string name="kuinka_pitk_olet">Your height?</string>
+    <string name="laske">Calculate</string>
+    <string name="paino">Weight</string>
+    <string name="pituus">Height</string>
+    <string name="result">Result comes here</string>
+    <string name="tuloksesi">Your result</string>
+</resources>
